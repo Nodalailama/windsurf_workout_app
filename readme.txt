@@ -128,3 +128,13 @@ Bonus
 L’app te dit toutes les 10 secondes où tu en es (ex. : "10 secondes", "20 secondes").
 
 Fais les exercices pour devenir plus fort en windsurf !
+
+## Pour les utilisateurs macOS (Lancement facile)
+1. Double-clique sur le fichier `start-workout.command` dans le dossier `windsurf-workout`.
+2. Un terminal s’ouvre, l’app démarre, et elle se ferme toute seule à la fin.
+3. Si ça ne marche pas, suis les étapes 2 à 5 ci-dessus pour installer Node.js et les dépendances.
+
+## Pour les utilisateurs Windows (Lancement facile)
+1. Double-clique sur le fichier `start-workout.bat` dans le dossier `windsurf-workout`.
+2. Une fenêtre noire s’ouvre, l’app démarre, et elle se ferme toute seule à la fin.
+3. Si ça ne marche pas, suis les étapes 2 à 5 ci-dessus pour installer Node.js et les dépendances.
