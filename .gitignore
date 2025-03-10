@@ -1,0 +1,42 @@
+# Dépendances Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json  # Optionnel : inclus si tu veux ignorer le lockfile
+
+# Fichiers de build et de production
+dist/
+build/
+*.min.js
+
+# Logs
+logs/
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Environnement
+.env           # Pour ignorer les variables d'environnement (ex. clés API)
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Système d'exploitation
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# Éditeurs de texte
+.vscode/       # VS Code
+.idea/         # IntelliJ
+*.sublime-*    # Sublime Text
+
+# Tests
+coverage/      # Dossier de couverture de tests (ex. Jest)
+*.test.js      # Optionnel : ignorer les fichiers de test
+
+# Divers
+*.bak
+*.swp
