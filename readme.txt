@@ -109,7 +109,7 @@ npm install say
 Étape 5 : Lancer l’app
 Dans le terminal, tape :
 
-node workout.js
+node app.js
 
 Appuie sur Entrée. Tu devrais entendre une voix dire "Début de la séance d’entraînement ! Prépare-toi !".
 
