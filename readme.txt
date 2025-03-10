@@ -128,15 +128,3 @@ Bonus
 L’app te dit toutes les 10 secondes où tu en es (ex. : "10 secondes", "20 secondes").
 
 Fais les exercices pour devenir plus fort en windsurf !
-
-Notes pour toi
-Nom du fichier : J’ai utilisé workout.js comme dans ton code actuel. Si tu renommes en app.js, remplace node workout.js par node app.js dans le README.
-
-Repo vide : Ton repo https://github.com/Nodalailama/windsurf_workout_app doit contenir workout.js, .gitignore, et idéalement package.json. Pousse-les avec :
-
-git add .
-git commit -m "Ajout des fichiers pour README"
-git push origin main
-
-Test : Relis le README en te mettant dans la peau d’un débutant pour vérifier qu’il est clair.
-
